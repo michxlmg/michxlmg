@@ -13,7 +13,6 @@
 - 🎓 I'm currently studying **Software Engineering**
 - 💻 I focus on **frontend development** with **React**, **Astro**, **Tailwind CSS**
 - 📱 I also build mobile apps using **Android Studio + Java**
-- 🛠️ I use **Supabase** as a BaaS and have basic knowledge of **Node.js**
 - 📘 Currently improving my skills in **Java**
 - 🤝 I'm interested in collaborating on simple Open Source projects
 - 🌱 Always learning and growing
@@ -31,7 +30,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" alt="Android Studio"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
 </p>
 
 ---
